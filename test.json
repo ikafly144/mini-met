@@ -1,0 +1,196 @@
+{
+    "quotes": [
+        {
+            "high": "1.9413",
+            "open": "1.9281",
+            "bid": "1.9401",
+            "currencyPairCode": "GBPNZD",
+            "ask": "1.9418",
+            "low": "1.9252"
+        },
+        {
+            "high": "99.95",
+            "open": "99.40",
+            "bid": "99.82",
+            "currencyPairCode": "CADJPY",
+            "ask": "99.87",
+            "low": "99.00"
+        },
+        {
+            "high": "1.7777",
+            "open": "1.7644",
+            "bid": "1.7768",
+            "currencyPairCode": "GBPAUD",
+            "ask": "1.7777",
+            "low": "1.7615"
+        },
+        {
+            "high": "91.92",
+            "open": "91.68",
+            "bid": "91.65",
+            "currencyPairCode": "AUDJPY",
+            "ask": "91.68",
+            "low": "91.34"
+        },
+        {
+            "high": "1.0935",
+            "open": "1.0924",
+            "bid": "1.0916",
+            "currencyPairCode": "AUDNZD",
+            "ask": "1.0926",
+            "low": "1.0886"
+        },
+        {
+            "high": "1.4405",
+            "open": "1.4352",
+            "bid": "1.4399",
+            "currencyPairCode": "EURCAD",
+            "ask": "1.4406",
+            "low": "1.4336"
+        },
+        {
+            "high": "1.0614",
+            "open": "1.0592",
+            "bid": "1.0555",
+            "currencyPairCode": "EURUSD",
+            "ask": "1.0556",
+            "low": "1.0535"
+        },
+        {
+            "high": "84.07",
+            "open": "83.84",
+            "bid": "83.91",
+            "currencyPairCode": "NZDJPY",
+            "ask": "83.97",
+            "low": "83.50"
+        },
+        {
+            "high": "1.3662",
+            "open": "1.3545",
+            "bid": "1.3641",
+            "currencyPairCode": "USDCAD",
+            "ask": "1.3647",
+            "low": "1.3524"
+        },
+        {
+            "high": "0.8833",
+            "open": "0.8815",
+            "bid": "0.8824",
+            "currencyPairCode": "EURGBP",
+            "ask": "0.8828",
+            "low": "0.8795"
+        },
+        {
+            "high": "1.2040",
+            "open": "1.2011",
+            "bid": "1.1958",
+            "currencyPairCode": "GBPUSD",
+            "ask": "1.1961",
+            "low": "1.1926"
+        },
+        {
+            "high": "7.335",
+            "open": "7.313",
+            "bid": "7.315",
+            "currencyPairCode": "ZARJPY",
+            "ask": "7.465",
+            "low": "7.266"
+        },
+        {
+            "high": "0.9912",
+            "open": "0.9892",
+            "bid": "0.9910",
+            "currencyPairCode": "EURCHF",
+            "ask": "0.9915",
+            "low": "0.9878"
+        },
+        {
+            "high": "145.30",
+            "open": "144.19",
+            "bid": "145.05",
+            "currencyPairCode": "CHFJPY",
+            "ask": "145.10",
+            "low": "143.66"
+        },
+        {
+            "high": "0.6823",
+            "open": "0.6806",
+            "bid": "0.6728",
+            "currencyPairCode": "AUDUSD",
+            "ask": "0.6730",
+            "low": "0.6717"
+        },
+        {
+            "high": "0.9393",
+            "open": "0.9337",
+            "bid": "0.9388",
+            "currencyPairCode": "USDCHF",
+            "ask": "0.9392",
+            "low": "0.9323"
+        },
+        {
+            "high": "143.82",
+            "open": "142.56",
+            "bid": "143.80",
+            "currencyPairCode": "EURJPY",
+            "ask": "143.82",
+            "low": "141.99"
+        },
+        {
+            "high": "1.1259",
+            "open": "1.1213",
+            "bid": "1.1225",
+            "currencyPairCode": "GBPCHF",
+            "ask": "1.1234",
+            "low": "1.1189"
+        },
+        {
+            "high": "1.7137",
+            "open": "1.7010",
+            "bid": "1.7127",
+            "currencyPairCode": "EURNZD",
+            "ask": "1.7139",
+            "low": "1.6976"
+        },
+        {
+            "high": "0.6241",
+            "open": "0.6224",
+            "bid": "0.6158",
+            "currencyPairCode": "NZDUSD",
+            "ask": "0.6164",
+            "low": "0.6148"
+        },
+        {
+            "high": "136.45",
+            "open": "134.69",
+            "bid": "136.23",
+            "currencyPairCode": "USDJPY",
+            "ask": "136.24",
+            "low": "134.02"
+        },
+        {
+            "high": "1.5688",
+            "open": "1.5561",
+            "bid": "1.5683",
+            "currencyPairCode": "EURAUD",
+            "ask": "1.5691",
+            "low": "1.5536"
+        },
+        {
+            "high": "0.6367",
+            "open": "0.6355",
+            "bid": "0.6316",
+            "currencyPairCode": "AUDCHF",
+            "ask": "0.6322",
+            "low": "0.6304"
+        },
+        {
+            "high": "162.99",
+            "open": "161.79",
+            "bid": "162.91",
+            "currencyPairCode": "GBPJPY",
+            "ask": "162.94",
+            "low": "161.20"
+        }
+    ]
+}
